@@ -8,7 +8,8 @@ public class ContaTerminal {
 
       // exibir as mensagens para o usuárioe obter pela classe Scanner os dados do
       // usuário no terminal
-      System.out.println("Por favor, informe o número da agência: ");
+      System.out.println("Bem-vindo ao banco XYZ!");
+      System.out.println("\nPor favor, informe o número da agência: ");
       int numero = scanner.nextInt();
 
       System.out.println("Por favor, informe o nome da dua agência: ");
